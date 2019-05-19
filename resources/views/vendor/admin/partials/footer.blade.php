@@ -14,5 +14,5 @@
 
     </div>
     <!-- Default to the left -->
-    <strong>Powered by <a href="https://github.com/z-song/laravel-admin" target="_blank">Sahadat Hossain</a></strong>
+    <strong>Powered by <a href="https://github.com/z-song/laravel-admin" target="_blank">Md. Sahadat Hossain</a></strong>
 </footer>
